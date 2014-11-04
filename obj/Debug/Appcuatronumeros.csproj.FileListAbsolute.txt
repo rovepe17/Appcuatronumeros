@@ -1,0 +1,5 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuatronumeros\Appcuatronumeros\bin\Debug\Appcuatronumeros.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuatronumeros\Appcuatronumeros\bin\Debug\Appcuatronumeros.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuatronumeros\Appcuatronumeros\bin\Debug\Appcuatronumeros.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuatronumeros\Appcuatronumeros\obj\Debug\Appcuatronumeros.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuatronumeros\Appcuatronumeros\obj\Debug\Appcuatronumeros.pdb
